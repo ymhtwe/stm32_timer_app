@@ -1,0 +1,249 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "MOC3041SM" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at -7.63189 7.63189 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "MOC3041SM" (id 1) (at -7.62908 -7.62908 0.0)
+      (effects (font (size 1.27 1.27)) (justify top left))
+    )
+    (property "Footprint" "MOC3041SM:OPTO_MOC3041SM" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "1.6" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "Manufacturer Recommendations" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MAXIMUM_PACKAGE_HEIGHT" "5.08mm" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "ON Semiconductor" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "MOC3041SM_0_0"
+      (polyline
+        (pts (xy -5.08 3.81) (xy -3.81 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.81 1.27) (xy -2.54 3.81)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.54 3.81) (xy -3.81 3.81)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.81 3.81) (xy -5.08 3.81)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -5.08 1.27) (xy -3.81 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.81 1.27) (xy -2.54 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.81 3.81) (xy -3.81 5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.81 5.08) (xy -7.62 5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.81 1.27) (xy -3.81 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.81 0.0) (xy -7.62 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 2.2225 1.905) (xy 4.445 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.445 1.905) (xy 4.7625 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.7625 1.905) (xy 3.4925 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 3.4925 -0.635) (xy 2.2225 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 5.3975 1.905) (xy 4.1275 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.1275 -0.635) (xy 4.445 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.445 -0.635) (xy 6.6675 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 6.6675 -0.635) (xy 5.3975 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.7625 1.905) (xy 5.3975 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 5.3975 1.905) (xy 6.985 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 2.2225 -0.635) (xy 3.4925 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 3.4925 -0.635) (xy 4.1275 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 6.6675 -0.635) (xy 6.985 -0.635)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 3.4925 -0.635) (xy 0.9525 -1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.54 -3.175) (xy -1.27 -3.175)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 -3.175) (xy 0.9525 -3.175)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.9525 -3.175) (xy 2.54 -3.175)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 2.54 -3.175) (xy 2.54 -5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 2.54 -5.08) (xy 2.54 -6.6675)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 2.54 -6.6675) (xy -2.54 -6.6675)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.54 -6.6675) (xy -2.54 -3.175)) (stroke (width 0.254))
+      )
+      (text "ZERO" (at -0.953697 -4.13268 0)
+        (effects (font (size 0.508637 0.508637)) (justify bottom left))
+      )
+      (text "CROSSING" (at -1.90717 -5.08579 0)
+        (effects (font (size 0.508578 0.508578)) (justify bottom left))
+      )
+      (text "CIRCUIT" (at -1.27145 -6.03938 0)
+        (effects (font (size 0.508578 0.508578)) (justify bottom left))
+      )
+      (polyline
+        (pts (xy 0.9525 -1.905) (xy 0.9525 -3.175)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 -3.175) (xy -1.27 5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 5.08) (xy 4.445 5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.445 5.08) (xy 4.445 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 2.54 -5.08) (xy 4.445 -5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.445 -5.08) (xy 7.62 -5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.445 5.08) (xy 7.62 5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.445 -0.635) (xy 4.445 -5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -0.635 3.4925) (xy 1.27 2.8575)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 2.8575) (xy -0.635 2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -0.635 2.54) (xy 0.635 1.5875)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.635 1.5875) (xy 0.3175 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.3175 1.27) (xy 1.27 0.9525)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 0.9525) (xy 0.9525 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.9525 1.905) (xy 0.635 1.5875)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts
+          (xy -5.08 3.81)
+          (xy -2.54 3.81)
+          (xy -3.81 1.27)
+          (xy -5.08 3.81)
+        )
+        (stroke (width 0.254)) (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 2.2098 1.905)
+          (xy 4.7244 1.905)
+          (xy 4.7498 1.905)
+          (xy 4.4196 1.2192)
+          (xy 3.5052 -0.635)
+          (xy 3.302 -0.254)
+          (xy 2.2098 1.905)
+        )
+        (stroke (width 0.254)) (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 4.1402 -0.635)
+          (xy 5.3848 1.905)
+          (xy 6.6802 -0.635)
+          (xy 4.1402 -0.635)
+        )
+        (stroke (width 0.254)) (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 0.3302 1.27)
+          (xy 0.9398 1.905)
+          (xy 1.27 0.9652)
+          (xy 0.3302 1.27)
+        )
+        (stroke (width 0.254)) (fill (type outline))
+      )
+      (rectangle (start -7.62 -7.62) (end 7.62 7.62)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -12.7 5.08 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 0.0 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 5.08 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -5.08 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
