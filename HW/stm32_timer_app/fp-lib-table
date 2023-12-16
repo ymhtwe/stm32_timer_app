@@ -12,4 +12,6 @@
   (lib (name "RT9193_33GB")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/RT9193_33GB")(options "")(descr "5V-to-3.3V regulator"))
   (lib (name "LD03ZD475MAB2A")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/LD03ZD475MAB2A")(options "")(descr "0603 ceramic capacitor"))
   (lib (name "61300411121")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/61300411121")(options "")(descr "Connector Header Through Hole 4 position 0.100\" (2.54mm)"))
+  (lib (name "PH2_06_UA")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/PH2_06_UA")(options "")(descr "3x2 header pin"))
+  (lib (name "150060GS75000")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/150060GS75000")(options "")(descr "0603 smd led"))
 )
