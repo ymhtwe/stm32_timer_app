@@ -21,4 +21,5 @@
   (lib (name "691213710002")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/691213710002/691213710002.kicad_sym")(options "")(descr "Power Connector (300V, 10A)"))
   (lib (name "ECW_FD2J273KQ")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/ECW_FD2J273KQ/2023-12-17_10-13-03.kicad_sym")(options "")(descr "630V 10nF capacitor"))
   (lib (name "OY390KE")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/OY390KE/2023-12-17_10-20-02.kicad_sym")(options "")(descr "39Ohm, 2 Watt resistor"))
+  (lib (name "AOM12864A0-1.54WW-ANO")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/AOM12864A0-1.54WW-ANO/AOM12864A0-1.54WW-ANO.kicad_sym")(options "")(descr "OLED display"))
 )
