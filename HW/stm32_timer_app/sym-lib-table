@@ -22,4 +22,8 @@
   (lib (name "ECW_FD2J273KQ")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/ECW_FD2J273KQ/2023-12-17_10-13-03.kicad_sym")(options "")(descr "630V 10nF capacitor"))
   (lib (name "OY390KE")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/OY390KE/2023-12-17_10-20-02.kicad_sym")(options "")(descr "39Ohm, 2 Watt resistor"))
   (lib (name "AOM12864A0-1.54WW-ANO")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/AOM12864A0-1.54WW-ANO/AOM12864A0-1.54WW-ANO.kicad_sym")(options "")(descr "OLED display"))
+  (lib (name "BTA16-600B")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/BTA16-600B/BTA16-600B.kicad_sym")(options "")(descr "BTA16 TriAC"))
+  (lib (name "TL3342F160QG")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/TL3342F160QG/TL3342F160QG.kicad_sym")(options "")(descr "SMD push switch"))
+  (lib (name "MSS6-V-T_R")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/MSS6-V-T_R/MSS6-V-T_R.kicad_sym")(options "")(descr "SMD DPDT slide switch"))
+  (lib (name "ABLS-8.000MHZ-B2-T")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/ABLS-8.000MHZ-B2-T/ABLS-8.000MHZ-B2-T.kicad_sym")(options "")(descr "SMD 8.0 MHz crystal oscillator"))
 )
