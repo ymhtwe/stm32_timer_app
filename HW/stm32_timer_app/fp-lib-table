@@ -26,4 +26,8 @@
   (lib (name "TL3342F160QG")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/TL3342F160QG")(options "")(descr "SMD push switch"))
   (lib (name "MSS6-V-T_R")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/MSS6-V-T_R")(options "")(descr "SMD DPDT slide switch"))
   (lib (name "ABLS-8.000MHZ-B2-T")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/ABLS-8.000MHZ-B2-T")(options "")(descr "SMD 8.0 MHz crystal oscillator"))
+  (lib (name "MAX31865")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/MAX31865")(options "")(descr "MAX31865 amplifier module"))
+  (lib (name "AI-1027-TWT-3V-R")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/AI-1027-TWT-3V-R")(options "")(descr "Active buzzer 3v"))
+  (lib (name "MMBT2222A-7-F")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/MMBT2222A-7-F")(options "")(descr "SMD transistor"))
+  (lib (name "PTS526_SM15_SMTR2_LFS")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/PTS526_SM15_SMTR2_LFS")(options "")(descr "SMD micro switch button"))
 )

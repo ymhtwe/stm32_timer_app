@@ -7410,7 +7410,7 @@
     (property "Footprint" "MMBT2222A-7-F:SOT103P240X110-3N" (at 199.009 138.557 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30041.pdf" (at 201.549 157.607 0)
+    (property "Datasheet" "" (at 201.549 157.607 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "MF" "Diodes Inc." (at 202.819 147.447 0)
