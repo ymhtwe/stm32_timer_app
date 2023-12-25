@@ -30,4 +30,7 @@
   (lib (name "AI-1027-TWT-3V-R")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/AI-1027-TWT-3V-R/AI-1027-TWT-3V-R.kicad_sym")(options "")(descr "Active buzzer 3V"))
   (lib (name "MMBT2222A-7-F")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/MMBT2222A-7-F/MMBT2222A-7-F.kicad_sym")(options "")(descr "SMD transistor"))
   (lib (name "PTS526_SM15_SMTR2_LFS")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/PTS526_SM15_SMTR2_LFS/PTS526_SM15_SMTR2_LFS.kicad_sym")(options "")(descr "SMD micro switch button"))
+  (lib (name "ABM3-8.000MHZ-J4Q-T")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/ABM3_8_000MHZ_J4Q_T/ABM3-8.000MHZ-J4Q-T.kicad_sym")(options "")(descr "8 MHz crystal oscillator smd"))
+  (lib (name "ABS07-32.768KHZ-T")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/ABS07-32.768KHZ-T/ABS07-32.768KHZ-T.kicad_sym")(options "")(descr "32.768 KHz crystal oscillator smd"))
+  (lib (name "MSS-102559-14A-D")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/MSS-102559-14A-D/MSS-102559-14A-D.kicad_sym")(options "")(descr "Miniature slide switch"))
 )

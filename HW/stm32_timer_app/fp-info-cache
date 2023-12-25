@@ -1,4 +1,4 @@
-22506139459587160
+22512954399137052
 691213710002
 691213710002
 <b>WR-TBL Serie 213 - 5.00 mm Horiz.l Entry Modular<br></b>Max Height =10mm , Pitch 5mm , 2 Pins
@@ -85,6 +85,20 @@ XTAL_HC49P488W46L1150T500H350
 2
 ABLS-8.000MHZ-B2-T
 XTAL_ABLS-8.000MHZ-B2-T
+
+
+0
+2
+2
+ABM3_8_000MHZ_J4Q_T
+XTAL_ABM3-8.000MHZ-J4Q-T
+
+
+0
+2
+2
+ABS07-32.768KHZ-T
+XTAL_ABS07-32.768KHZ-T
 
 
 0
@@ -62637,11 +62651,11 @@ Yellow 5381 Series LED
 2
 MAX31865
 MAX31865
-
+MAX31865 amplifier module
 
 0
 14
-10
+14
 MMBT2222A-7-F
 SOT103P240X110-3N
 
@@ -62663,6 +62677,13 @@ OPTO_MOC3041SM
 0
 6
 6
+MSS-102559-14A-D
+SW_MSS-102559-14A-D
+
+
+0
+3
+3
 MSS6-V-T_R
 SW_MSS6-V-T_R
 
@@ -66401,6 +66422,13 @@ PH2-06-UA
 0
 6
 6
+PTS526_SM15_SMTR2_LFS
+PTS526SM15SMTR2LFS
+<b>PTS526 SM15 SMTR2 LFS-2</b><br>
+
+0
+4
+4
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf

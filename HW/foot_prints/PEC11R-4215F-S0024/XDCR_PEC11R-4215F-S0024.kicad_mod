@@ -66,4 +66,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -180))
   )
+  (model "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/PEC11R-4215F-S0024/ec11_rotary_encoder_knob_-yf-19-1.snapshot.2/EC11_rotary_encoder_knob/EC11_rotary_encoder_knob.stp"
+    (offset (xyz 0 0 9))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
