@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F303C8T6
+D STMICROELECTRONICS - STM32F303C8T6 - MCU, 32BIT, CORTEX-M4, 72MHZ, LQFP-48
+K
+F http://www.farnell.com/datasheets/2042755.pdf
+$ENDCMP
+#
+#End Doc Library

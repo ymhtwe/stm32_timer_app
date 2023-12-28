@@ -33,4 +33,6 @@
   (lib (name "ABM3_8_000MHZ_J4Q_T")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/ABM3_8_000MHZ_J4Q_T")(options "")(descr "8 MHz crystal oscillator smd"))
   (lib (name "ABS07-32.768KHZ-T")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/ABS07-32.768KHZ-T")(options "")(descr "32.768 KHz crystal oscillator smd"))
   (lib (name "MSS-102559-14A-D")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/MSS-102559-14A-D")(options "")(descr "Miniature slide switch"))
+  (lib (name "STM32f303C8T6")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/STM32f303C8T6")(options "")(descr "STM32F303C8T6"))
+  (lib (name "SMTU2032-LF")(type "KiCad")(uri "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/SMTU2032-LF")(options "")(descr "CR2032 battery holder"))
 )

@@ -173,9 +173,9 @@
     (solder_mask_margin 0.102) (tstamp ea5995e7-25a0-468e-8ab7-bb8d5c35b147))
   (pad "48" smd roundrect (at -2.75 -4.18) (size 0.28 1.56) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.39)
     (solder_mask_margin 0.102) (tstamp c7a5779c-a580-453a-9493-e99ef62d543e))
-  (model "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/STM32F103C8T6/STM32F103C8T6.step"
+  (model "E:/Keil/Git Repo/stm32_timer_app/HW/foot_prints/STM32f303C8T6/STM32F303C8T6.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz 0 0 0))
   )
 )
