@@ -2,15 +2,15 @@
   (layer "F.Cu")
   (tags "61300411121 ")
   (attr through_hole)
-  (fp_text reference "REF**" (at 3.81 0 unlocked) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 11.303 0.0762 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 873fb623-fcfb-41bb-9676-8e3250867445)
   )
-  (fp_text value "CONN_61300411121_WRE" (at 3.81 0 unlocked) (layer "F.Fab")
+  (fp_text value "CONN_61300411121_WRE" (at 3.81 -3.175 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a3d21784-a98f-472d-9448-f73731c52142)
   )
-  (fp_text user "${REFERENCE}" (at 3.81 0 unlocked) (layer "F.Fab")
+  (fp_text user "${REFERENCE}" (at 3.8862 -4.953 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 851b8cd9-cefe-4dcb-b18c-a30a36405436)
   )
